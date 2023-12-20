@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sssssss
+=======
+Hola mundo otra vezzzz
+>>>>>>> a25a081ef52c3a2f82ead4af9ec38b3cb798e044
